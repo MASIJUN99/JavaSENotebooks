@@ -1,6 +1,6 @@
 ## [二、Java基础](../README.md)
 
-### [2.1环境搭建](./notebooks/2.1.md)
+### [2.1什么是Java](./notebooks/2.1.md)
 
 ### [2.2基础语法](./notebooks/2.2.md)
 
