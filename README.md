@@ -2,7 +2,7 @@
 
 ## 一、课前导学
 
-## [二、Java基础](/02-basic-java/README.md)
+## [二、Java基础](./02-basic-java/README.md)
 
 ## 三、面向对象
 
