@@ -17,7 +17,7 @@ public class QuickSort<T extends Comparable<T>> {
     }
 
     private int partition(T[] array, int left, int right) {
-        int ref = left;
+        int ref = left;  // 参考点
         int index = ref + 1;
         for (int i = index; i < right; i++) {
             if (array[ref].compareTo(array[i]) > 0) {
