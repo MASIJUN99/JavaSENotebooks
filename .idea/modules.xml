@@ -13,6 +13,8 @@
       <module fileurl="file://$PROJECT_DIR$/02-basic-java/09-homework2-3/09-homework2-3.iml" filepath="$PROJECT_DIR$/02-basic-java/09-homework2-3/09-homework2-3.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-basic-java/10-sort/10-sort.iml" filepath="$PROJECT_DIR$/02-basic-java/10-sort/10-sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-basic-java/11-binary-search/11-binary-search.iml" filepath="$PROJECT_DIR$/02-basic-java/11-binary-search/11-binary-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-basic-java/12-n-dimensions-array/12-n-dimensions-array.iml" filepath="$PROJECT_DIR$/02-basic-java/12-n-dimensions-array/12-n-dimensions-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-basic-java/13-homework/13-homework.iml" filepath="$PROJECT_DIR$/02-basic-java/13-homework/13-homework.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/kaikebanotebooks.iml" filepath="$PROJECT_DIR$/.idea/kaikebanotebooks.iml" />
     </modules>
   </component>
