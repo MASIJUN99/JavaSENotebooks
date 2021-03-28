@@ -40,4 +40,9 @@ public class MyTest {
         System.out.println(Arrays.toString(quickSort.quickSort(array)));
     }
 
+    @Test
+    public void test(){
+        System.out.println(2<<3);
+    }
+
 }
