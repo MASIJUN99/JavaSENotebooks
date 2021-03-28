@@ -1,4 +1,4 @@
-## [二、Java基础](../README.md)
+## 二、Java基础
 
 ### [2.1什么是Java](./notebooks/2.1.md)
 
