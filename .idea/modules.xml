@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/02-basic-java/01-helloworld/01-helloworld.iml" filepath="$PROJECT_DIR$/02-basic-java/01-helloworld/01-helloworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-oop/01-homework/01-homework.iml" filepath="$PROJECT_DIR$/03-oop/01-homework/01-homework.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-basic-java/02-auto-shutdown/02-auto-shutdown.iml" filepath="$PROJECT_DIR$/02-basic-java/02-auto-shutdown/02-auto-shutdown.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-oop/02-homework/02-homework.iml" filepath="$PROJECT_DIR$/03-oop/02-homework/02-homework.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-basic-java/03-binary/03-binary.iml" filepath="$PROJECT_DIR$/02-basic-java/03-binary/03-binary.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-basic-java/04-exchange-param-value/04-exchange-param-value.iml" filepath="$PROJECT_DIR$/02-basic-java/04-exchange-param-value/04-exchange-param-value.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-basic-java/05-homework1/05-homework1.iml" filepath="$PROJECT_DIR$/02-basic-java/05-homework1/05-homework1.iml" />
@@ -17,6 +18,10 @@
       <module fileurl="file://$PROJECT_DIR$/02-basic-java/12-n-dimensions-array/12-n-dimensions-array.iml" filepath="$PROJECT_DIR$/02-basic-java/12-n-dimensions-array/12-n-dimensions-array.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-basic-java/13-homework/13-homework.iml" filepath="$PROJECT_DIR$/02-basic-java/13-homework/13-homework.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-basic-java/14-final-exam/14-final-exam.iml" filepath="$PROJECT_DIR$/02-basic-java/14-final-exam/14-final-exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-oop/03-homework/homework-1-1/homework-1-1.iml" filepath="$PROJECT_DIR$/03-oop/03-homework/homework-1-1/homework-1-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-oop/03-homework/homework-1-2/homework-1-2.iml" filepath="$PROJECT_DIR$/03-oop/03-homework/homework-1-2/homework-1-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-oop/03-homework/homework-1-3/homework-1-3.iml" filepath="$PROJECT_DIR$/03-oop/03-homework/homework-1-3/homework-1-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-oop/03-homework/homework-2/homework-2.iml" filepath="$PROJECT_DIR$/03-oop/03-homework/homework-2/homework-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/kaikebanotebooks.iml" filepath="$PROJECT_DIR$/.idea/kaikebanotebooks.iml" />
     </modules>
   </component>
