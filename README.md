@@ -2,9 +2,9 @@
 
 ## 一、课前导学
 
-## [二、Java基础](./02-basic-java/README.md)
+## 二、[Java基础](./02-basic-java/README.md)
 
-## 三、面向对象
+## 三、[面向对象](./03-oop/README.md)
 
 ## 四、核心类库
 
