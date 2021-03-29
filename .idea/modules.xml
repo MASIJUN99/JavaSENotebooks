@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/02-basic-java/01-helloworld/01-helloworld.iml" filepath="$PROJECT_DIR$/02-basic-java/01-helloworld/01-helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-oop/01-homework/01-homework.iml" filepath="$PROJECT_DIR$/03-oop/01-homework/01-homework.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-basic-java/02-auto-shutdown/02-auto-shutdown.iml" filepath="$PROJECT_DIR$/02-basic-java/02-auto-shutdown/02-auto-shutdown.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-basic-java/03-binary/03-binary.iml" filepath="$PROJECT_DIR$/02-basic-java/03-binary/03-binary.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-basic-java/04-exchange-param-value/04-exchange-param-value.iml" filepath="$PROJECT_DIR$/02-basic-java/04-exchange-param-value/04-exchange-param-value.iml" />
