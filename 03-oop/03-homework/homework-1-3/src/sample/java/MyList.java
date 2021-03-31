@@ -1,31 +1,34 @@
 package sample.java;
 
-import java.io.ObjectStreamException;
-
 public class MyList {
     private Object[] elements;
     private int pointer;
+    private int capacity;
     private int size;
+    private int end;
 
     // init
     public MyList() {
-        this.size = 4;
+        this.capacity = 4;
+        this.size = 0;
         this.pointer = -1;
-        elements = new Object[size];
+        this.elements = new Object[capacity];
     }
 
     // 末尾增加元素
     public void add(Object val) {
         pointer += 1;
-        if (pointer == size) {
-            size = size * 2;
-            Object[] newElements = new Object[size];
+        if (pointer == capacity) {
+            capacity = capacity * 2;
+            Object[] newElements = new Object[capacity];
+            // Arrays.copyTo
             for(int i = 0; i < pointer; i++) {
                 newElements[i] = elements[i];
             }
             elements = newElements;
         }
         elements[pointer] = val;
+        size += 1;
     }
 
     // 删除索引为idx的元素
@@ -34,11 +37,13 @@ public class MyList {
             throw new NullPointerException("MyList没有元素");
         }
         index = Math.min(index, pointer);
+        // 后移
         for (int i = index; i < pointer; i++) {
             elements[i] = elements[i + 1];
         }
         elements[pointer] = null;
         pointer -= 1;
+        size -= 1;
     }
 
     // 获取索引为idx的元素
@@ -52,12 +57,12 @@ public class MyList {
 
     // 当前元素个数
     public int length() {
-        return pointer + 1;
+        return size;
     }
 
     // 当前占用空间
     public int size() {
-        return size;
+        return capacity;
     }
 
 

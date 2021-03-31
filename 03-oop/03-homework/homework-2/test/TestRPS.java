@@ -1,6 +1,8 @@
 import org.junit.Test;
 import sample.java.RPSGame;
 
+import java.util.Objects;
+import java.util.Optional;
 import java.util.Scanner;
 
 public class TestRPS {
