@@ -14,7 +14,6 @@ public class UserServiceImpl implements UserService {
 
     @Override
     public boolean logIn(User user) {
-
         User find = userDao.getUser(user.getUsername());
 
         if (find == null) {

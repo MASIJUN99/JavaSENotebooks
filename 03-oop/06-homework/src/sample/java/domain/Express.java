@@ -1,6 +1,5 @@
 package sample.java.domain;
 
-import java.nio.channels.Pipe;
 import java.util.Objects;
 
 public class Express {
