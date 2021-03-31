@@ -3,6 +3,8 @@ import sample.java.dao.ExpressDao;
 import sample.java.domain.Express;
 import sample.java.view.View;
 
+import java.util.Objects;
+
 public class TestExpressDao {
     @Test
     public void testExpressDao() {
